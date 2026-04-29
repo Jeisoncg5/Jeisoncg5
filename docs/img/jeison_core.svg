@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="100%" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#121212"/>
+    </linearGradient>
+
+    <linearGradient id="panelStroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#333333"/>
+      <stop offset="50%" stop-color="#666666"/>
+      <stop offset="100%" stop-color="#333333"/>
+    </linearGradient>
+
+    <filter id="subtleGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #ffffff; letter-spacing: 3px; }
+      .subtitle { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #808080; letter-spacing: 1.5px; }
+      .section { font: 700 28px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+      .sectionSub { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #666666; }
+      .item { font: 500 16px 'Segoe UI', Arial, sans-serif; fill: #cccccc; }
+      .bullet { fill: #ffffff; }
+      .frame { fill: #111111; stroke: url(#panelStroke); stroke-width: 1.5; rx: 15; }
+      .accent { stroke: #ffffff; stroke-width: 2; fill: none; opacity: 0.8; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" fill="url(#bg)"/>
+
+  <g transform="translate(600,60)" filter="url(#subtleGlow)">
+    <text text-anchor="middle" class="title">CORE SYSTEM</text>
+    <text y="25" text-anchor="middle" class="subtitle">CAPABILITIES • COGNITIVE STACK • ENGINEERING</text>
+  </g>
+
+  <!-- Panels -->
+  <g transform="translate(60,150)">
+    <rect width="340" height="230" class="frame"/>
+    <path d="M25 30 H100" class="accent"/>
+    <text x="25" y="65" class="section">BACKEND</text>
+    <text x="25" y="90" class="sectionSub">.NET • MICROSERVICES • SQL</text>
+    
+    <g transform="translate(25,120)">
+      <circle cx="5" cy="5" r="3" class="bullet"/>
+      <text x="20" y="10" class="item">Scalable .NET APIs</text>
+      <circle cx="5" cy="40" r="3" class="bullet"/>
+      <text x="20" y="45" class="item">Distributed Systems</text>
+      <circle cx="5" cy="70" r="3" class="bullet"/>
+      <text x="20" y="75" class="item">Clean Architecture</text>
+    </g>
+  </g>
+
+  <g transform="translate(430,150)">
+    <rect width="340" height="230" class="frame"/>
+    <path d="M25 30 H100" class="accent"/>
+    <text x="25" y="65" class="section">INTERESTS</text>
+    <text x="25" y="90" class="sectionSub">GAMING • DESIGN • ENGINES</text>
+
+    <g transform="translate(25,120)">
+      <circle cx="5" cy="5" r="3" class="bullet"/>
+      <text x="20" y="10" class="item">Game Development</text>
+      <circle cx="5" cy="40" r="3" class="bullet"/>
+      <text x="20" y="45" class="item">Unity / Unreal Engines</text>
+      <circle cx="5" cy="70" r="3" class="bullet"/>
+      <text x="20" y="75" class="item">Mechanics Design</text>
+    </g>
+  </g>
+
+  <g transform="translate(800,150)">
+    <rect width="340" height="230" class="frame"/>
+    <path d="M25 30 H100" class="accent"/>
+    <text x="25" y="65" class="section">MINDSET</text>
+    <text x="25" y="90" class="sectionSub">PHILOSOPHY • PRINCIPLES</text>
+
+    <g transform="translate(25,120)">
+      <circle cx="5" cy="5" r="3" class="bullet"/>
+      <text x="20" y="10" class="item">Efficiency > Complexity</text>
+      <circle cx="5" cy="40" r="3" class="bullet"/>
+      <text x="20" y="45" class="item">Maintainable Code</text>
+      <circle cx="5" cy="70" r="3" class="bullet"/>
+      <text x="20" y="75" class="item">Test-Driven Dev</text>
+    </g>
+  </g>
+</svg>

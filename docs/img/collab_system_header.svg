@@ -1,0 +1,28 @@
+<svg width="1600" height="320" viewBox="0 0 1600 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1600" y2="320">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+
+    <style>
+      .title { font: 800 72px 'Segoe UI', Arial; fill: #ffffff; letter-spacing: 10px; }
+      .sub { font: 600 26px 'Segoe UI', Arial; fill: #808080; letter-spacing: 7px; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="320" rx="28" fill="url(#bgGrad)"/>
+
+  <!-- Lines -->
+  <path d="M180 160 H1420" stroke="#ffffff" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Subtitle -->
+  <text x="800" y="138" text-anchor="middle" class="sub">OPEN • BUILD • CONNECT</text>
+
+  <!-- Title -->
+  <text x="800" y="210" text-anchor="middle" class="title">COLLABORATION</text>
+</svg>

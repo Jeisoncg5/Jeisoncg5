@@ -1,0 +1,71 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#121212"/>
+    </linearGradient>
+
+    <linearGradient id="panelStroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#333333"/>
+      <stop offset="50%" stop-color="#666666"/>
+      <stop offset="100%" stop-color="#333333"/>
+    </linearGradient>
+
+    <style>
+      .panelTitle { font: 700 24px 'Segoe UI', Arial; fill: #ffffff; letter-spacing: 1px; }
+      .panelText { font: 500 16px 'Segoe UI', Arial; fill: #cccccc; }
+      .frame { fill: #111111; stroke: url(#panelStroke); stroke-width: 1.5; rx: 15; }
+      .accent { stroke: #ffffff; stroke-width: 2; fill: none; opacity: 0.8; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="600" fill="url(#bg)"/>
+
+  <!-- Row 1 -->
+  <g transform="translate(60,60)">
+    <rect width="520" height="220" class="frame"/>
+    <path d="M30 30 H100" class="accent"/>
+    <text x="30" y="65" class="panelTitle">🤝 Collaboration Areas</text>
+    <g transform="translate(30,100)">
+      <text y="0" class="panelText">• Backend & .NET Systems</text>
+      <text y="30" class="panelText">• Microservices & APIs</text>
+      <text y="60" class="panelText">• Scalable Architectures</text>
+      <text y="90" class="panelText">• Open Source & Tools</text>
+    </g>
+  </g>
+
+  <g transform="translate(620,60)">
+    <rect width="520" height="220" class="frame"/>
+    <path d="M30 30 H100" class="accent"/>
+    <text x="30" y="65" class="panelTitle">🔍 What I'm Looking For</text>
+    <g transform="translate(30,100)">
+      <text y="0" class="panelText">• Engineers building real systems</text>
+      <text y="30" class="panelText">• Maintainable workflows</text>
+      <text y="60" class="panelText">• Scalable system thinkers</text>
+      <text y="90" class="panelText">• Long-term collaborators</text>
+    </g>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(60,320)">
+    <rect width="520" height="220" class="frame"/>
+    <path d="M30 30 H100" class="accent"/>
+    <text x="30" y="65" class="panelTitle">🚀 Open Collaboration</text>
+    <g transform="translate(30,100)">
+      <text y="0" class="panelText">• Backend tools development</text>
+      <text y="30" class="panelText">• Database optimization</text>
+      <text y="60" class="panelText">• Distributed architectures</text>
+    </g>
+  </g>
+
+  <g transform="translate(620,320)">
+    <rect width="520" height="220" class="frame"/>
+    <path d="M30 30 H100" class="accent"/>
+    <text x="30" y="65" class="panelTitle">🧠 Philosophy</text>
+    <g transform="translate(30,100)">
+      <text y="0" class="panelText">• Shared vision over speed</text>
+      <text y="30" class="panelText">• Aligned standards & clean code</text>
+      <text y="60" class="panelText">• Build things that outlive individuals</text>
+    </g>
+  </g>
+</svg>

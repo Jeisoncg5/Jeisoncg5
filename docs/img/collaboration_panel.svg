@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+
+    <radialGradient id="energy">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#333333"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+
+    <style>
+      .title { font:700 36px 'Segoe UI'; fill:#ffffff; letter-spacing:3px; }
+      .subtitle { font:500 16px 'Segoe UI'; fill:#808080; }
+      .cta { font:600 14px 'Segoe UI'; fill:#ffffff; letter-spacing:2px; }
+    </style>
+  </defs>
+
+  <rect width="500" height="650" fill="url(#bg)"/>
+
+  <!-- nodes -->
+  <circle cx="120" cy="260" r="30" fill="#ffffff" opacity="0.3" filter="url(#glow)">
+    <animate attributeName="r" values="28;32;28" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="380" cy="260" r="30" fill="#ffffff" opacity="0.3" filter="url(#glow)">
+    <animate attributeName="r" values="28;32;28" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- forming core -->
+  <g transform="translate(250,260)">
+    <circle r="75" fill="url(#energy)" opacity="0.4" filter="url(#glow)">
+      <animate attributeName="r" values="65;85;65" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- rotating rings -->
+    <circle r="100" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-dasharray="20 40">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- text -->
+  <text x="250" y="430" text-anchor="middle" class="title">COLLABORATION</text>
+  <text x="250" y="470" text-anchor="middle" class="subtitle">convergence • shared systems • building</text>
+  <text x="250" y="520" text-anchor="middle" class="cta">CONNECT →</text>
+</svg>
