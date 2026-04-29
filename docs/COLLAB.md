@@ -29,12 +29,26 @@
   </tr>
 </table>
 
-
 ---
 
 <h2 align="center">🤝 Collaboration System</h2>
 <p align="center">
-  <img src="img/collaboration_content.svg" width="100%"/>
+  <img src="" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeisoncg5&theme=dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeisoncg5&theme=dark&utcOffset=-5" width="100%" />
+</p>
+
+<br>
+
+<h2 align="center">🕹️ Activity Flow</h2>
+<p align="center">
+  <img src="img/gh-space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 <br>
@@ -42,23 +56,4 @@
 <h2 align="center">🏆 GitHub Achievements & Reputation</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeisoncg5&theme=darkhub&no-frame=true&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeisoncg5&theme=dark" width="100%" />
-</p>
-
-<br>
-
-<h2 align="center">📊 System Statistics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeisoncg5&show_icons=true&theme=dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeisoncg5&layout=compact&theme=dark" width="48%" />
-</p>
-
----
-
-<h2 align="center">🕹️ Activity Flow</h2>
-<p align="center">
-  <img src="img/gh-space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
