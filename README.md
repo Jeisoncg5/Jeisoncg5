@@ -38,15 +38,14 @@ Junior Backend Developer in .NET, focused on creating scalable and maintainable 
 
 <p align="center">
 
-<a href="https://Jeisoncg5.github.io/">
-  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=400&section=header&text=Jeison%20System&desc=Projects%20|%20Blogs%20|%20Labs%20|%20Info&fontColor=ffffff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+<a href="https://portafoliojeisoncristancho.netlify.app">
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=400&section=header&text=GET TO %NOW ME&desc=Projects%20|%20Blogs%20|%20Labs%20|%20Info&fontColor=ffffff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
 </a>
-<a href="https://Jeisoncg5.github.io/neural-lab/index.html">
-  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=400&section=header&text=PORTFOLIO&desc=Visual%20Project%20Environment&fontColor=ffffff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+<a href="https://portafoliojeisoncristancho.netlify.app">
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=400&section=header&text=PORTFOLIO&desc=About me | %20Projects | %20Contact me&fontColor=ffffff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
 </a>
 
 </p>
-
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Jeisoncg5)
 
@@ -54,9 +53,7 @@ Junior Backend Developer in .NET, focused on creating scalable and maintainable 
   <img src="docs/img/jeison_core.svg" width="100%" alt="System core panel" />
 </p>
 
-
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Jeisoncg5)
-
 
 # 🛠 Technologies and Projects
 
@@ -103,15 +100,7 @@ Junior Backend Developer in .NET, focused on creating scalable and maintainable 
   <a href="docs/PROJECTS.md">
     <img src="docs/img/tech_projects_panel.svg" width="220">
   </a>
-  <p align="left">
-    <samp>
-      • LuxTime<br>
-      • Hotel Carmen<br>
-      • Tournament Mgr<br>
-      • Real Estate Sys<br>
-      • Flight Ticket Mgmt
-    </samp>
-  </p>
+  
 </div>
 
 </td>
@@ -123,14 +112,13 @@ Junior Backend Developer in .NET, focused on creating scalable and maintainable 
 
 ### 📊 Vital Statistics
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeisoncg5&theme=dark" alt="Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeisoncg5&theme=dark" />
-</p>    
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeisoncg5&label=PROFILE%20VIEWS&color=808080&style=flat-square" alt="Views" />
@@ -171,7 +159,7 @@ I’m open to collaborating on:
 
 <br>
 
-<a href="https://Jeisoncg5.github.io/">
+<a href="https://portafoliojeisoncristancho.netlify.app">
   <img src="https://img.shields.io/badge/Personal%20Website-Jeisoncg5.github.io-808080?style=for-the-badge&logo=google-chrome">
 </a>
 <br><br>
@@ -198,6 +186,3 @@ I’m open to collaborating on:
 <p align="center">
  ⭐ if you Like it!!
 </p>
-
-
-

@@ -1,21 +1,33 @@
 <p align="center">
-  <img src=".docs/img/projects_system_header.svg" width="100%" />
+  <img src="img/projects_system_header.svg" width="100%" />
 </p>
 
-<p align="center">
-  <a href="../README.md">
-    <img src=".docs/img/navbar/home.svg" width="220" />
-  </a>
-  <a href="./PROJECTS.md">
-    <img src=".docs/img/navbar/projects.svg" width="220" />
-  </a>
-  <a href="https://Jeisoncg5.github.io/">
-    <img src=".docs/img/navbar/website.svg" width="220" />
-  </a>
-  <a href="./COLLAB.md">
-    <img src=".docs/img/navbar/collaboration.svg" width="220" />
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="../README.md">
+        <img src="img/navbar/home.svg" width="220" />
+      </a>
+    </td>
+    <td>
+      <a href="./PROJECTS.md">
+        <img src="img/navbar/projects.svg" width="220" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://portafoliojeisoncristancho.netlify.app">
+        <img src="img/navbar/website.svg" width="220" />
+      </a>
+    </td>
+    <td>
+      <a href="./COLLAB.md">
+        <img src="img/navbar/collaboration.svg" width="220" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
