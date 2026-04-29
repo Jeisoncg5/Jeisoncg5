@@ -32,9 +32,6 @@
 ---
 
 <h2 align="center">🤝 Collaboration System</h2>
-<p align="center">
-  <img src="" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeisoncg5&theme=dark" width="100%" />

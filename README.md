@@ -39,10 +39,10 @@ Junior Backend Developer in .NET, focused on creating scalable and maintainable 
 <p align="center">
 
 <a href="https://portafoliojeisoncristancho.netlify.app">
-  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=400&section=header&text=GET TO %NOW ME&desc=Projects%20|%20Blogs%20|%20Labs%20|%20Info&fontColor=ffffff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=400&section=header&text=GET%20TO%20KNOW%20ME&desc=Projects%20|%20Blogs%20|%20Labs%20|%20Info&fontColor=ffffff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
 </a>
 <a href="https://portafoliojeisoncristancho.netlify.app">
-  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=400&section=header&text=PORTFOLIO&desc=About me | %20Projects | %20Contact me&fontColor=ffffff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=400&section=header&text=PORTFOLIO&desc=About%20me%20|%20Projects%20|%20Contact%20me&fontColor=ffffff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
 </a>
 
 </p>
